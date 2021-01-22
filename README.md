@@ -1,5 +1,5 @@
 # sigmaESMrelease
-The sigmaESM script and other MATLAB scripts for computing Young's moduli of proteins
+The sigmaESM script and other MATLAB scripts for computing Young's moduli of proteins and protein interface regions
 
 The program assumes the following software, scripts, and data have been installed 
 and added to the path using the addpath command of MATLAB.
